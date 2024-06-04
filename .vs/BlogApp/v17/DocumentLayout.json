@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BlogApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0E533FA-202A-4876-A4C1-F00E506C3702}|BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0E533FA-202A-4876-A4C1-F00E506C3702}|BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj|solutionrelative:blogapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06627666-1479-43FD-8D4D-637920D6A946}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06627666-1479-43FD-8D4D-637920D6A946}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0E533FA-202A-4876-A4C1-F00E506C3702}|BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E533FA-202A-4876-A4C1-F00E506C3702}|BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj|solutionrelative:blogapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "BlogApp.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "BlogApp.Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:01:19.697Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\appsettings.json",
+              "RelativeToolTip": "BlogApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T22:20:25.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "BlogApp.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Domain\\Class1.cs",
-              "RelativeToolTip": "BlogApp.Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BlogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Data\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "BlogApp.Infrastructure\\Data\\ApplicationDbContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:00:36.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "BlogApp.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Class1.cs",
-              "RelativeToolTip": "BlogApp.Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T21:59:53.065Z",
+              "WhenOpened": "2024-06-04T22:19:30.767Z",
               "EditorCaption": ""
             }
           ]

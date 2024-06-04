@@ -12,3 +12,4 @@ C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\obj\Debug\net8.0\ref\B
 C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\bin\Debug\net8.0\BlogApp.Infrastructure.runtimeconfig.json
 C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\obj\Debug\net8.0\BlogApp.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\obj\Debug\net8.0\BlogApp.Infrastructure.genruntimeconfig.cache
+C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\obj\Debug\net8.0\BlogApp.Infrastructure.sourcelink.json

@@ -15,4 +15,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BlogApp.Domain\BlogApp.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
