@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E533FA-202A-4876-A4C1-F00E506C3702}|BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E533FA-202A-4876-A4C1-F00E506C3702}|BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj|solutionrelative:blogapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06627666-1479-43FD-8D4D-637920D6A946}|BlogApp.Domain\\BlogApp.Domain.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06627666-1479-43FD-8D4D-637920D6A946}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "BlogApp.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "BlogApp.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:01:19.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "BlogApp.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Domain\\Class1.cs",
+              "RelativeToolTip": "BlogApp.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:00:36.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Class1.cs",
+              "RelativeToolTip": "BlogApp.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:59:53.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
