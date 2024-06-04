@@ -9,3 +9,10 @@ C:\Users\User\source\repos\BlogApp\BlogApp.Application\obj\Debug\net8.0\BlogApp.
 C:\Users\User\source\repos\BlogApp\BlogApp.Application\obj\Debug\net8.0\refint\BlogApp.Application.dll
 C:\Users\User\source\repos\BlogApp\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.pdb
 C:\Users\User\source\repos\BlogApp\BlogApp.Application\obj\Debug\net8.0\ref\BlogApp.Application.dll
+C:\Users\User\source\repos\BlogApp\BlogApp.Application\bin\Debug\net8.0\BlogApp.Domain.dll
+C:\Users\User\source\repos\BlogApp\BlogApp.Application\bin\Debug\net8.0\BlogApp.Infrastructure.dll
+C:\Users\User\source\repos\BlogApp\BlogApp.Application\bin\Debug\net8.0\BlogApp.Domain.pdb
+C:\Users\User\source\repos\BlogApp\BlogApp.Application\bin\Debug\net8.0\BlogApp.Infrastructure.pdb
+C:\Users\User\source\repos\BlogApp\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BlogApp\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.sourcelink.json
+C:\Users\User\source\repos\BlogApp\BlogApp.Application\obj\Debug\net8.0\BlogApp..92E926E3.Up2Date

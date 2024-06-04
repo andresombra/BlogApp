@@ -13,3 +13,6 @@ C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\bin\Debug\net8.0\BlogA
 C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\obj\Debug\net8.0\BlogApp.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\obj\Debug\net8.0\BlogApp.Infrastructure.genruntimeconfig.cache
 C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\obj\Debug\net8.0\BlogApp.Infrastructure.sourcelink.json
+C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\bin\Debug\net8.0\BlogApp.Domain.dll
+C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\bin\Debug\net8.0\BlogApp.Domain.pdb
+C:\Users\User\source\repos\BlogApp\BlogApp.Infrastructure\obj\Debug\net8.0\BlogApp..7AC54645.Up2Date
