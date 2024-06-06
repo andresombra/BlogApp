@@ -78,6 +78,8 @@ app.Use(async (context, next) =>
         if (context.WebSockets.IsWebSocketRequest)
         {
             var webSocket = await context.WebSockets.AcceptWebSocketAsync();
+            var notificationService = context.RequestServices.GetRequiredService<NotificationService>();
+            notificationService.AddSocket(webSocket);
             await Notify(context, webSocket);
         }
         else
