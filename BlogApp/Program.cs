@@ -73,6 +73,7 @@ app.UseWebSockets(webSocketOptions);
 
 app.Use(async (context, next) =>
 {
+    //if (context.Request.Path.ToString().Contains("ws"))
     if (context.Request.Path == "/ws")
     {
         if (context.WebSockets.IsWebSocketRequest)

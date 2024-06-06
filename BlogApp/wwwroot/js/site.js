@@ -3,7 +3,8 @@
 
 // Write your JavaScript code.
 
-const socket = new WebSocket('ws://localhost:5000/ws');
+//const socket = new WebSocket('ws://localhost:7076/ws');
+const socket = new WebSocket('https://localhost:7076/ws');
 
 socket.onopen = function (event) {
     console.log('WebSocket is open now.');

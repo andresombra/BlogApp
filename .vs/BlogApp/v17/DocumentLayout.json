@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BlogApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0E533FA-202A-4876-A4C1-F00E506C3702}|BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E533FA-202A-4876-A4C1-F00E506C3702}|BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj|solutionrelative:blogapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.application\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "BlogApp.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "BlogApp.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BlogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BlogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T23:36:56.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PostService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\PostService.cs",
-              "RelativeDocumentMoniker": "BlogApp.Application\\Services\\PostService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\PostService.cs",
-              "RelativeToolTip": "BlogApp.Application\\Services\\PostService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:35:37.901Z",
+              "WhenOpened": "2024-06-06T21:30:04.956Z",
               "EditorCaption": ""
             },
             {
@@ -70,20 +69,72 @@
               "RelativeDocumentMoniker": "BlogApp.Application\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\UserService.cs",
               "RelativeToolTip": "BlogApp.Application\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:34:27.421Z",
+              "WhenOpened": "2024-06-06T21:29:55.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "BlogApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T15:25:56.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BlogApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BlogApp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-06T15:24:31.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "BlogApp\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:23:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\NotificationService.cs",
+              "RelativeToolTip": "BlogApp.Application\\Services\\NotificationService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:17:31.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\Program.cs",
               "RelativeDocumentMoniker": "BlogApp\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\Program.cs",
               "RelativeToolTip": "BlogApp\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAADwv1AAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T22:24:54.212Z",
               "EditorCaption": ""
