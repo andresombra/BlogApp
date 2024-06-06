@@ -76,5 +76,3 @@ C:\Users\User\source\repos\BlogApp\BlogApp\bin\Debug\net8.0\BlogApp.Domain.pdb
 C:\Users\User\source\repos\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.sourcelink.json
 C:\Users\User\source\repos\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.csproj.Up2Date
-C:\Users\User\source\repos\BlogApp\BlogApp\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\User\source\repos\BlogApp\BlogApp\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
