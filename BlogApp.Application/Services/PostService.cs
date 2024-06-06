@@ -1,61 +1,51 @@
 ﻿using BlogApp.Application.Interfaces;
 using BlogApp.Domain.Entities;
-using BlogApp.Infrastructure.Data;
-using Microsoft.EntityFrameworkCore;
-//using Microsoft.AspNetCore.SignalR;
+using BlogApp.Domain.Interfaces;
+using BlogApp.Domain.Interfaces.BlogApp.Domain.Interfaces;
 
 namespace BlogApp.Application.Services
 {
     public class PostService : IPostService
     {
-        private readonly ApplicationDbContext _context;
-        //private readonly IHubContext<NotificationHub> _hubContext;
+        private readonly IPostRepository _postRepository;
 
-        //public PostService(ApplicationDbContext context, IHubContext<NotificationHub> hubContext)
-        //{
-        //    _context = context;
-        //    _hubContext = hubContext;
-        //}
-
-        public PostService(ApplicationDbContext context)
+        public PostService(IPostRepository postRepository)
         {
-            _context = context;
+            _postRepository = postRepository;
         }
 
         public async Task<IEnumerable<Post>> GetAllPosts()
         {
-            return await _context.Posts.Include(p => p.User).ToListAsync();
+            return await _postRepository.GetAllAsync();
         }
 
         public async Task<Post> GetPostById(int id)
         {
-            return await _context.Posts.Include(p => p.User).SingleOrDefaultAsync(p => p.Id == id);
+            return await _postRepository.GetByIdAsync(id);
         }
 
         public async Task<Post> CreatePost(Post post)
         {
-            _context.Posts.Add(post);
-            await _context.SaveChangesAsync();
-
-            //await _hubContext.Clients.All.SendAsync("ReceiveNotification", "New post created");
+            await _postRepository.AddAsync(post);
+            await _postRepository.SaveChangesAsync();
 
             return post;
         }
 
         public async Task<Post> UpdatePost(Post post)
         {
-            _context.Posts.Update(post);
-            await _context.SaveChangesAsync();
+            _postRepository.Update(post);
+            await _postRepository.SaveChangesAsync();
             return post;
         }
 
         public async Task DeletePost(int id)
         {
-            var post = await _context.Posts.FindAsync(id);
+            var post = await _postRepository.GetByIdAsync(id);
             if (post != null)
             {
-                _context.Posts.Remove(post);
-                await _context.SaveChangesAsync();
+                _postRepository.Remove(post);
+                await _postRepository.SaveChangesAsync();
             }
         }
     }

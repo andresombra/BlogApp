@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BlogApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0E533FA-202A-4876-A4C1-F00E506C3702}|BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E533FA-202A-4876-A4C1-F00E506C3702}|BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj|solutionrelative:blogapp.infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{06627666-1479-43FD-8D4D-637920D6A946}|BlogApp.Domain\\BlogApp.Domain.csproj|solutionrelative:blogapp.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1B2D282-A42D-4FE5-BC13-44BAD7651231}|BlogApp.Application\\BlogApp.Application.csproj|solutionrelative:blogapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|c:\\users\\user\\source\\repos\\blogapp\\blogapp\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCEDCA4-49F1-4C52-96CD-4F72793A0F9E}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,6 +83,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\appsettings.json",
+              "RelativeToolTip": "BlogApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T22:15:57.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "BlogApp.Application\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:15:28.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "BlogApp.Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:15:00.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PostRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Repositories\\PostRepository.cs",
               "RelativeDocumentMoniker": "BlogApp.Infrastructure\\Repositories\\PostRepository.cs",
@@ -83,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "BlogApp.Infrastructure\\Repositories\\UserRepository.cs",
@@ -96,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IPostRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Domain\\Interfaces\\IPostRepository.cs",
               "RelativeDocumentMoniker": "BlogApp.Domain\\Interfaces\\IPostRepository.cs",
@@ -109,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "BlogApp.Domain\\Interfaces\\IUserRepository.cs",
@@ -122,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "BlogApp.Infrastructure\\Repositories\\Repository.cs",
@@ -135,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "BlogApp.Infrastructure",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj",
               "RelativeDocumentMoniker": "BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj",
@@ -156,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Domain\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "BlogApp.Domain\\Interfaces\\IRepository.cs",
@@ -169,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "BlogApp.Domain\\Entities\\User.cs",
@@ -182,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Domain\\Entities\\Post.cs",
               "RelativeDocumentMoniker": "BlogApp.Domain\\Entities\\Post.cs",
@@ -195,7 +246,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BlogApp.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "BlogApp.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:29:55.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BlogApp.Infrastructure\\Data\\ApplicationDbContext.cs",
@@ -208,20 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "BlogApp.Application\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "BlogApp.Application\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T21:29:55.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "BlogApp\\Pages\\Index.cshtml",
@@ -234,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "NotificationController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "BlogApp\\Controllers\\NotificationController.cs",
@@ -247,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogApp\\BlogApp\\Program.cs",
               "RelativeDocumentMoniker": "BlogApp\\Program.cs",
