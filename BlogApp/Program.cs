@@ -41,6 +41,9 @@ builder.Services.AddAuthorization();
 // Add services to the container.
 builder.Services.AddRazorPages();
 
+//Adicionado servico para notificao
+builder.Services.AddSingleton<NotificationService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
